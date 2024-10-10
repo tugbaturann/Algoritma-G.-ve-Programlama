@@ -1,0 +1,21 @@
+Sanal Ortamlar:
+Her proje için farklı sanal ortam oluşturur. Bu sayede sürüm çakışmalarını önler ve projelerinizin izolasyonunu sağlar.
+Popüler Araçlar: 
+venv: Python'a entegre gelen standart bir araçtır.
+virtualenv: Daha gelişmiş özelliklere sahip popüler bir üçüncü taraf aracıdır.
+conda: Anaconda dağıtımında bulunan, hem paket yönetimi hem de sanal ortam oluşturma işlevini bir arada sunan bir araçtır.
+Gereksinim Dosyaları (requirements.txt):
+Projenizin tüm bağımlılıklarını ve sürümlerini tek bir dosyada tutarak, projenizi başkalarıyla paylaşmayı ve farklı ortamlarda kolayca kurmayı sağlar.
+Sürüm Belirleme Araçları:
+ Projenizin bağımlılıklarını belirli sürümlere sabitleyerek, sürüm çakışmalarını önleyebilirsiniz.
+Popüler Araçlar: 
+pipenv: Hem sanal ortam yönetimi hem de gereksinim dosyası oluşturma özelliklerini bir arada sunan bir araç.
+Poetry: Daha modern ve kullanımı kolay bir paket yönetim ve sanal ortam aracı.
+Sürüm Yönetimi Sistemleri:
+Projenizin farklı sürümlerini yönetmek ve geri dönmek için kullanılabilir.
+Diğer Öneriler:
+Net ve Açık Gereksinimler: Projenizin gereksinimlerini net bir şekilde belirleyip belgeleştirin.
+Düzenli Güncellemeler: Bağımlılıklarınızı düzenli olarak güncelleyin fakat büyük güncellemeler yapmadan önce dikkatli olun.
+Topluluk Kaynakları: Stack Overflow, GitHub gibi platformlarda benzer sorunlarla karşılaşan diğer geliştiricilerin deneyimlerinden faydalanın.
+
+
